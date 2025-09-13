@@ -17,4 +17,4 @@ The game provides hints if the guess is *too high* or *too low*, and also shows 
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/c-number-guessing-game.git
+   git clone https://github.com/vikash-kun/number-guessing-C.git
